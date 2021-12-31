@@ -7,6 +7,7 @@ public class Main {
         String data = "This line is for branch-hs";
         test();
         createPullRequest();
+        //test comment line
     }
 
     public static void test() {
